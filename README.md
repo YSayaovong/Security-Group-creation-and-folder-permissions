@@ -1,9 +1,10 @@
-# Security-Group-creation-and-folder-permissions
+# Security Group Creation and Folder Permissions
 
-Step 1: Write a PowerShell script to create a local security group within the Windows VM from assignment 8a.  The script should also add the created non-admin user to that group.
+This repository contains PowerShell scripts for creating security groups and managing folder permissions, ensuring proper access control in Windows environments.
 
-Step 2: Add a line to the script that will create a folder c:\AssignmentB, and give the created security group full permission to that folder.
+### Features:
+- Automating security group creation.
+- Managing folder permissions using PowerShell.
 
- 
+This project helps users automate the creation of security groups and the assignment of folder permissions.
 
-To complete the assignment, submit this script for grading.
